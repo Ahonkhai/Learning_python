@@ -1,15 +1,8 @@
-print("Hello")
-print("i'm hungry!")
+# Day 1 😁✌️
 
-# Tested simple print
 
-# String
-first_name = "David"
-last_name = "Ahonkhai"
-full_name = first_name + " " + last_name
+print("Hello world!")
+print("ts pmo r🥀")
 
-print ("My name is " + full_name )
 
-# Check datatype of variable
-
-print(type(first_name))
+print("Thanks \nLebron")
