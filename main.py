@@ -22,4 +22,11 @@ if name == "David":
 else:
     print("who are you")
 
-    
+# Variables...
+full_name = "Alex mason"
+print(full_name)
+
+# length of string
+length = len(full_name)
+print(len(full_name))
+
