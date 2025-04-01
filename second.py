@@ -15,7 +15,7 @@ print(type(2.5))
 print("12345") #String
 print(int("12345")) #int 
 
-name = len(input("Enter your name"))
+name = len(input("Enter your name\n"))
 print("Number of letter in your name: ")
 
 print(int(name))
@@ -28,3 +28,15 @@ print(3 * 2)
 print(6 / 2)
 print(6 / 7) # Removes decimal
 print(2 ** 2) # basically 2²   
+
+print(3 * 3 + 3 / 3 - 3)
+print(round(3 * (3 + 3) / 3 - 3)) 
+
+# accumulation ➕➕
+
+score = 0
+score += 1
+print(score)
+
+#  f = strings
+print (f"your score is: {score}")
